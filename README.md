@@ -3,6 +3,9 @@
 ## Overview  
 NutriMate is a machine learning-based meal planning system that provides personalized recipe recommendations. It leverages collaborative and content-based filtering to analyze user preferences and feedback, tailoring meal suggestions based on dietary restrictions, allergies, and nutritional goals.  
 
+## 🌐 Live Demo  
+👉 [Click here to try NutriMate](https://nutrimate-rkwbvk6hks8zcnwzzp6h2b.streamlit.app/)
+
 ## Features  
 - AI-powered personalized meal recommendations  
 - Dietary customization based on allergies, restrictions, and goals  
