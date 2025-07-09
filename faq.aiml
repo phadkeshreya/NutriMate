@@ -1,0 +1,23 @@
+<aiml version="2.0">
+  <category>
+    <pattern>IMPORTANT INGREDIENTS FOR WEIGHT LOSS</pattern>
+    <template>Some important ingredients for weight loss are leafy greens, lean proteins, healthy fats like avocado and olive oil, and fiber-rich foods like whole grains and vegetables. They help control hunger, boost metabolism, and promote fat burning.</template>
+  </category>
+
+  <category>
+    <pattern>IMPORTANT INGREDIENTS FOR WEIGHT GAIN</pattern>
+    <template>Important ingredients for weight gain include calorie-dense foods such as nuts, seeds, avocados, whole grains, lean meats, and dairy products. These help you consume more calories to build muscle mass and gain weight healthily.</template>
+  </category>
+
+  <category>
+    <pattern>IMPORTANT INGREDIENTS FOR FITNESS</pattern>
+    <template>For fitness, focus on ingredients like lean proteins (chicken, tofu, beans), complex carbohydrates (oats, quinoa, brown rice), and healthy fats (almonds, flaxseeds). These support muscle recovery, energy levels, and overall performance.</template>
+  </category>
+
+  <category>
+    <pattern>IMPORTANT INGREDIENTS FOR GENERAL HEALTH</pattern>
+    <template>For general health, include a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats. These help improve immunity, maintain a healthy heart, and promote overall well-being.</template>
+  </category>
+
+  <!-- Add more FAQs for other categories as needed -->
+</aiml>
